@@ -9,7 +9,7 @@
                      <img style="vertical-align:middle" src="resources/imgs/kenoby.png" title="General Kenobi" width="70"/>
                 </td>
                 <td>
-                     <h2 style=" display:inline-block;vertical-align:middle;">, I'm Nicolo'</h2>
+                     <h2 style=" display:inline-block;vertical-align:middle;">I'm Nicolo'</h2>
                 </td>
             <tr>
         </table>
