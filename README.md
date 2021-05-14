@@ -54,8 +54,6 @@
 </p>
 
 <hr>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center"><a href=https://github.com/nicofirst1?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 <p align = "center">
    ⭐️ From <a href="https://github.com/nicofirst1/">nicofirst1</a>
