@@ -1,20 +1,3 @@
-
- <div align="center">
-        <table border="0" >
-            <tr>
-                <td>
-                   <h2 style=" display:inline-block;vertical-align:middle;">Hello There</h2>
-                </td>
-                <td>
-                     <img style="vertical-align:middle" src="resources/imgs/kenoby.png" title="General Kenobi" width="70"/>
-                </td>
-                <td>
-                     <h2 style=" display:inline-block;vertical-align:middle;">I'm Nicolo'</h2>
-                </td>
-            <tr>
-        </table>
-</div>
-
 <div>
 
    <h4 align="center">
