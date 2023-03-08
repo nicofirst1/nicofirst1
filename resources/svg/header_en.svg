@@ -32,7 +32,7 @@ rect.headerRect:hover {
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #4447e3;  
+  fill: #088024;  
 }
 
 .wave:hover {
@@ -44,10 +44,10 @@ rect.headerRect:hover {
 }
 
 .drop {
-  fill: #4447e3;
+  fill: #088024;
   xfill: #99000055;
   animation: drop 8.2s linear infinite normal;
-  stroke: #4447e3;
+  stroke: #088024;
   stroke-width: 0.5;
   transform: translateY(25px) ;
   transform-box: fill-box;
@@ -136,7 +136,7 @@ g.typingUnderline rect {
       <feColorMatrix in="blur" mode="matrix" values="
            0 0 0 0 0  
            0 1 0 0 0  
-           0 1 0 0 0  
+           0 0 1 0 0  
            0 0 0 13 -9" result="goo" />
       <xfeBlend in="SourceGraphic" in2="goo" />
   	</filter>
@@ -177,7 +177,7 @@ g.typingUnderline rect {
 <rect class="headerRect" width="70" height="7.3" rx="1" x="20" y="16.8"/>
 
 <path id="nameTyping">
-  <animate attributeName="d" from="m38,-6 h0" to="m38,-6 h100" dur="9.4s" begin="0s" fill="freeze"/>
+  <animate attributeName="d" from="m38,-6 h0" to="m38,-6 h100" dur="5.4s" begin="0s" fill="freeze"/>
 </path>
 
 <text font-family="Courier New" font-size=".22em" fill="white"
@@ -186,12 +186,6 @@ g.typingUnderline rect {
        Nicolo' Brandizzi
   </textPath>
 </text>
-
-<g class="typingUnderline">
-  <rect fill="#FFFFFF" x="75" y="20.5" width="2.5" height="0.4" xlink:href="#underlineTyping">
-      <animate attributeName="visible" from="hidden" to="visible" dur="1s" fill="freeze"/>
-  </rect>
-</g>
 
 <path id="descriptionTyping">
   <animate attributeName="d" from="m30,-3 h0" to="m30,-3 h100" 
