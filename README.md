@@ -10,8 +10,7 @@
 
 
 <p align="center">
-  <a href="https://nicofirst1.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
-" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://nicofirst1.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nicolo-brandizzi-04091b153/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/dizzibus"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
@@ -22,28 +21,10 @@
 <details>
   <summary><b>:computer: &nbsp;My skills</b></summary>
   <br/>
-<style>
-  .my-table {
-    width: 200%;
-    table-layout: fixed;
-    border-collapse: collapse;
-    white-space: nowrap;
-  }
-  
-  .my-table td:first-child {
-    position: sticky;
-    left: 0;
-    z-index: 1;
-    background-color: #0000; /* Change to a solid background color */
-  }
-  
-  .my-table td:not(:first-child) {
-    min-width: 100px;
-  }
-</style>
+
 
 <div style="overflow-x: auto; width: 100%;">
-<table class="my-table">
+  <table style="width: 200%; table-layout: fixed; border-collapse: collapse; white-space: nowrap;">
 
   <tbody>
   <tr>
