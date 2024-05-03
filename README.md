@@ -3,7 +3,6 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;🧑‍💻 &nbsp;Doing my PhD at  [Sapienza university](https://www.uniroma1.it/en/pagina-strutturale/home) in Artificial Inteligence \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching human-machine interaction.
